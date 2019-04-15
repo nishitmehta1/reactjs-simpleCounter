@@ -1,0 +1,18 @@
+.Display{
+	height: 2.2em;
+	width: 100%;
+    font-size: 6rem;
+    font-weight: 300;
+    justify-content: center;
+    background-color: #F8F9FA;
+    line-height: 1.2;
+	outline: 1px solid #888;
+}
+
+.number{
+	margin-top: 10%;
+	text-align: center;
+	color: grey;
+	vertical-align: middle;
+	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+}
